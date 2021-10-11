@@ -1,0 +1,46 @@
+﻿@using SchoolSystem.Models
+@model List<Teacher>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+
+<a class="btn btn-primary" href="/Teacher/Save">Add Teacher</a>
+<h2>Teacher List</h2>
+<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>StudentValue</th>
+            <th>Update</th>
+            <th>Delete</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var teacher in Model)
+        {
+
+            <tr>
+                <td>@teacher.Id</td>
+                <td>@teacher.name</td>
+                <td>@teacher.surname</td>
+                <td>@teacher.age</td>
+                <td>@teacher.sex</td>
+                <td>@teacher.stvalue</td>
+                <td><a class="btn-primary" href="/Teacher/Update/@teacher.Id">Update</a></td>
+                <td><a class="btn-primary" href="/Teacher/Delete/@teacher.Id">Delete</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+

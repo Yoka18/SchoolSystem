@@ -1,0 +1,81 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            
+        }
+
+        li, a, button {
+            font-family: "Dancing Script", cursive;
+            font: weight 500px;
+            font-size: 20px;
+            text-decoration: none;
+            color: black;
+        }
+
+        header {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 30px;
+        }
+
+        .navbar li {
+            display: inline-block;
+            padding: 0px 20px;
+        }
+
+            .navbar li a {
+                transition: all 0.5s;
+                text-decoration: underline;
+                color: black;
+            }
+
+                .navbar li a:hover {
+                    color: greenyellow;
+                }
+
+                .navbar li a button{
+                    padding: 10px 25px;
+                    border: none;
+                    border-radius: 50px;
+                    background-color: rgb(0, 136, 169);
+                    transition: all 0.5s;
+                }
+
+        .navbar li a button:hover {
+            background-color: greenyellow;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <lu class="navbar">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Project</a></li>
+                <li><a href="#">About</a></li>
+                <li><a class="contact" href="#"><button>Contact</button></a></li>
+            </lu>
+        </nav>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

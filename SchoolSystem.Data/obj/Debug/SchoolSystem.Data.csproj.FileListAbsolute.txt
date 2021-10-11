@@ -1,0 +1,11 @@
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.dll.config
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\SchoolSystem.Data.pdb
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.csproj.CopyComplete
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Data\obj\Debug\SchoolSystem.Data.pdb

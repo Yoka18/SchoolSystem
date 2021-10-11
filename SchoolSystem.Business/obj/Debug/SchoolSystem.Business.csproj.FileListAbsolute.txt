@@ -1,0 +1,15 @@
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Business.dll.config
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Business.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Business.pdb
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\EntityFramework.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Data.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Data.pdb
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\SchoolSystem.Data.dll.config
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\EntityFramework.xml
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\obj\Debug\SchoolSystem.Business.csproj.AssemblyReference.cache
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\obj\Debug\SchoolSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\obj\Debug\SchoolSystem.Business.csproj.CopyComplete
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\obj\Debug\SchoolSystem.Business.dll
+C:\Users\ömer\source\repos\SchoolSystem\SchoolSystem.Business\obj\Debug\SchoolSystem.Business.pdb

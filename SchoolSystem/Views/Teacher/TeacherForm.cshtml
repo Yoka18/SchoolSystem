@@ -1,0 +1,21 @@
+﻿@model SchoolSystem.Models.Teacher
+@{
+    ViewBag.Title = "Save";
+    Layout = "~/Views/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Save", "Teacher", FormMethod.Post))
+{
+<div>
+    @Html.LabelFor(m => m.name)
+    @Html.TextBoxFor(m => m.name, new { @class = "form-control" })
+    @Html.LabelFor(m => m.surname)
+    @Html.TextBoxFor(m => m.surname, new { @class = "form-control" })
+    @Html.LabelFor(m => m.age)
+    @Html.TextBoxFor(m => m.age, new { @class = "form-control" })
+    @Html.LabelFor(m => m.sex)
+    @Html.TextBoxFor(m => m.sex, new { @class = "form-control" })
+</div>
+    @Html.HiddenFor(m => m.Id)
+    <button type="submit" class="btn btn-success">Save</button>
+}
